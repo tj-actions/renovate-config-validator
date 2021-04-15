@@ -1,8 +1,6 @@
-FROM alpine:3.13.4
+FROM node:15.14.0-alpine3.10
 
 LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
-
-RUN apk add bash build-base gcc python2 npm
 
 RUN npm i -g renovate
 
