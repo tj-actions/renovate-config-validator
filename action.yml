@@ -1,4 +1,4 @@
-name: Renovate Config Validator
+name: Renovate Configuration Validator
 description: Validate renovate bot configurations
 author: tj-actions
 inputs:
