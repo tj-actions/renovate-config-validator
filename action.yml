@@ -1,0 +1,15 @@
+name: Renovate Config Validator
+description: Validate renovate bot configurations
+author: tj-actions
+inputs:
+  config-file:
+    description: 'Renovate config file'
+    required: true
+    default: 'renovate.json'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: check-square
+  color: white
