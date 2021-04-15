@@ -2,7 +2,7 @@ FROM alpine:3.13.4
 
 LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
-RUN apk add bash python npm
+RUN apk add bash python2 npm
 
 RUN npm i -g renovate
 
