@@ -4,7 +4,7 @@ LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
 RUN apk add bash npm
 
-RUN yarn global add renovate
+RUN npm i -g renovate
 
 COPY entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
