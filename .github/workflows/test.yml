@@ -20,6 +20,6 @@ jobs:
       - name: Run renovate-config-validator with the default values
         uses: ./
       - name: Run renovate-config-validator with non default values
-          uses: ./
-          with:
-            config-file: 'renovate-new.json'
+        uses: ./
+        with:
+          config-file: 'renovate-new.json'
