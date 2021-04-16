@@ -2,4 +2,6 @@
 
 set -e
 
-RENOVATE_CONFIG_FILE="${INPUT_CONFIG_FILE}" renovate-config-validator
+export RENOVATE_CONFIG_FILE="${INPUT_CONFIG_FILE}" 
+
+renovate-config-validator
