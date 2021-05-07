@@ -1,5 +1,29 @@
 # Changelog
 
+## [v1.2](https://github.com/tj-actions/renovate-config-validator/tree/v1.2) (2021-05-07)
+
+[Full Changelog](https://github.com/tj-actions/renovate-config-validator/compare/v1.1...v1.2)
+
+**Closed issues:**
+
+- Dependency Dashboard [\#1](https://github.com/tj-actions/renovate-config-validator/issues/1)
+
+**Merged pull requests:**
+
+- Update tj-actions/github-changelog-generator action to v1.8 [\#7](https://github.com/tj-actions/renovate-config-validator/pull/7) ([renovate[bot]](https://github.com/apps/renovate))
+- Bump tj-actions/sync-release-version from v8 to v8.5 [\#6](https://github.com/tj-actions/renovate-config-validator/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Upgrade to GitHub-native Dependabot [\#5](https://github.com/tj-actions/renovate-config-validator/pull/5) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+
+## [v1.1](https://github.com/tj-actions/renovate-config-validator/tree/v1.1) (2021-04-26)
+
+[Full Changelog](https://github.com/tj-actions/renovate-config-validator/compare/v1...v1.1)
+
+**Merged pull requests:**
+
+- Update tj-actions/github-changelog-generator action to v1.6 [\#4](https://github.com/tj-actions/renovate-config-validator/pull/4) ([renovate[bot]](https://github.com/apps/renovate))
+- Update Dockerfile [\#3](https://github.com/tj-actions/renovate-config-validator/pull/3) ([jackton1](https://github.com/jackton1))
+- Upgraded to [\#2](https://github.com/tj-actions/renovate-config-validator/pull/2) ([jackton1](https://github.com/jackton1))
+
 ## [v1](https://github.com/tj-actions/renovate-config-validator/tree/v1) (2021-04-15)
 
 [Full Changelog](https://github.com/tj-actions/renovate-config-validator/compare/9d76ec016f9f9ea2e17c0de1c01ffb0e4958c410...v1)
