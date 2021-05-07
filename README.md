@@ -5,7 +5,7 @@
 renovate-config-validator
 -------------------------
 
-Validate renovate bot configurations
+Validate [renovate](https://github.com/renovatebot/renovate) bot configurations
 
 ```yaml
 ...
