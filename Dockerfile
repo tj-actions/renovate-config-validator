@@ -8,4 +8,6 @@ RUN npm install -g npm@7.10.0
 RUN npm i -g renovate
 
 COPY entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+
 ENTRYPOINT ["/entrypoint.sh"]
