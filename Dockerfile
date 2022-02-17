@@ -4,7 +4,6 @@ LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
 RUN apk add bash
 
-RUN npm install -g npm@7.10.0
 RUN npm i -g renovate
 
 COPY entrypoint.sh /entrypoint.sh
