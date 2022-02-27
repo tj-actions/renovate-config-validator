@@ -12,7 +12,7 @@ Validate [renovate](https://github.com/renovatebot/renovate) bot configurations
     steps:
       - uses: actions/checkout@v2
       - name: Renovate Config Validator
-        uses: tj-actions/renovate-config-validator@v1.2
+        uses: tj-actions/renovate-config-validator@v1.3
 ```
 
 ## Inputs
