@@ -3,7 +3,7 @@ FROM node:17-alpine3.14
 LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
 RUN apk add bash \
-    && npm install -g npm renovate
+    && npm install -g renovate
 
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
