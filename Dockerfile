@@ -1,10 +1,9 @@
-FROM node:15.14.0-alpine3.10
+FROM node:17-alpine3.14
 
 LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
-RUN apk add bash
-
-RUN npm i -g renovate
+RUN apk add bash \
+    && npm install -g renovate
 
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
