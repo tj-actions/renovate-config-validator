@@ -2,7 +2,7 @@ FROM node:18-alpine3.14
 
 LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
-RUN apk add bash \
+RUN apk add bash python3 \
     && npm install -g re2 renovate
 
 COPY entrypoint.sh /entrypoint.sh
