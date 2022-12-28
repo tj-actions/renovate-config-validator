@@ -1,5 +1,93 @@
 # Changelog
 
+## [Unreleased](https://github.com/tj-actions/renovate-config-validator/tree/HEAD)
+
+[Full Changelog](https://github.com/tj-actions/renovate-config-validator/compare/v2.0...HEAD)
+
+**Closed issues:**
+
+- Dependency Dashboard [\#1](https://github.com/tj-actions/renovate-config-validator/issues/1)
+
+## [v2.0](https://github.com/tj-actions/renovate-config-validator/tree/v2.0) (2022-12-28)
+
+[Full Changelog](https://github.com/tj-actions/renovate-config-validator/compare/v2...v2.0)
+
+## [v2](https://github.com/tj-actions/renovate-config-validator/tree/v2) (2022-12-28)
+
+[Full Changelog](https://github.com/tj-actions/renovate-config-validator/compare/v1.3...v2)
+
+**Merged pull requests:**
+
+- chore\(deps\): update tj-actions/github-changelog-generator action to v1.16 [\#140](https://github.com/tj-actions/renovate-config-validator/pull/140) ([renovate[bot]](https://github.com/apps/renovate))
+- chore: update dockerfile [\#139](https://github.com/tj-actions/renovate-config-validator/pull/139) ([jackton1](https://github.com/jackton1))
+- Update tj-actions/verify-changed-files action to v13 [\#138](https://github.com/tj-actions/renovate-config-validator/pull/138) ([renovate[bot]](https://github.com/apps/renovate))
+- Update cirrus-actions/rebase action to v1.8 [\#137](https://github.com/tj-actions/renovate-config-validator/pull/137) ([renovate[bot]](https://github.com/apps/renovate))
+- Update reviewdog/action-shellcheck action to v1.16 [\#136](https://github.com/tj-actions/renovate-config-validator/pull/136) ([renovate[bot]](https://github.com/apps/renovate))
+- Update actions/checkout action to v3.2.0 [\#135](https://github.com/tj-actions/renovate-config-validator/pull/135) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v4.2.3 [\#134](https://github.com/tj-actions/renovate-config-validator/pull/134) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v4.2.2 [\#133](https://github.com/tj-actions/renovate-config-validator/pull/133) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v4.2.1 [\#132](https://github.com/tj-actions/renovate-config-validator/pull/132) ([renovate[bot]](https://github.com/apps/renovate))
+- Bump hmarr/auto-approve-action from 2 to 3 [\#131](https://github.com/tj-actions/renovate-config-validator/pull/131) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Update docker/setup-buildx-action action to v2.2.1 [\#130](https://github.com/tj-actions/renovate-config-validator/pull/130) ([renovate[bot]](https://github.com/apps/renovate))
+- Bump peter-evans/create-pull-request from 4.1.4 to 4.2.0 [\#129](https://github.com/tj-actions/renovate-config-validator/pull/129) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Update pascalgn/automerge-action action to v0.15.5 [\#128](https://github.com/tj-actions/renovate-config-validator/pull/128) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/setup-buildx-action action to v2.2.0 [\#127](https://github.com/tj-actions/renovate-config-validator/pull/127) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v4.1.4 [\#126](https://github.com/tj-actions/renovate-config-validator/pull/126) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/verify-changed-files action to v12 [\#125](https://github.com/tj-actions/renovate-config-validator/pull/125) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/setup-qemu-action action to v2.1.0 [\#124](https://github.com/tj-actions/renovate-config-validator/pull/124) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/setup-buildx-action action to v2.1.0 [\#123](https://github.com/tj-actions/renovate-config-validator/pull/123) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/login-action action to v2.1.0 [\#122](https://github.com/tj-actions/renovate-config-validator/pull/122) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/build-push-action action to v3.2.0 [\#121](https://github.com/tj-actions/renovate-config-validator/pull/121) ([renovate[bot]](https://github.com/apps/renovate))
+- Update actions/first-interaction action to v1.1.1 [\#120](https://github.com/tj-actions/renovate-config-validator/pull/120) ([renovate[bot]](https://github.com/apps/renovate))
+- Update actions/checkout action to v3.1.0 [\#119](https://github.com/tj-actions/renovate-config-validator/pull/119) ([renovate[bot]](https://github.com/apps/renovate))
+- Bump docker/build-push-action from 3.1.0 to 3.1.1 [\#118](https://github.com/tj-actions/renovate-config-validator/pull/118) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump peter-evans/create-pull-request from 4.1.2 to 4.1.3 [\#117](https://github.com/tj-actions/renovate-config-validator/pull/117) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Update peter-evans/create-pull-request action to v4.1.2 [\#116](https://github.com/tj-actions/renovate-config-validator/pull/116) ([renovate[bot]](https://github.com/apps/renovate))
+- Update codacy/codacy-analysis-cli-action action to v4.2.0 [\#115](https://github.com/tj-actions/renovate-config-validator/pull/115) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/sync-release-version action to v12 [\#114](https://github.com/tj-actions/renovate-config-validator/pull/114) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/github-changelog-generator action to v1.15 [\#113](https://github.com/tj-actions/renovate-config-validator/pull/113) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/branch-names action to v6 [\#112](https://github.com/tj-actions/renovate-config-validator/pull/112) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/verify-changed-files action to v11 [\#111](https://github.com/tj-actions/renovate-config-validator/pull/111) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v4.1.1 [\#110](https://github.com/tj-actions/renovate-config-validator/pull/110) ([renovate[bot]](https://github.com/apps/renovate))
+- Bump peter-evans/create-pull-request from 4.0.4 to 4.1.0 [\#109](https://github.com/tj-actions/renovate-config-validator/pull/109) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Update docker/build-push-action action to v3.1.1 [\#108](https://github.com/tj-actions/renovate-config-validator/pull/108) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/build-push-action action to v3.1.0 [\#107](https://github.com/tj-actions/renovate-config-validator/pull/107) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/github-changelog-generator action to v1.14 [\#106](https://github.com/tj-actions/renovate-config-validator/pull/106) ([renovate[bot]](https://github.com/apps/renovate))
+- Bump tj-actions/verify-changed-files from 9 to 10 [\#105](https://github.com/tj-actions/renovate-config-validator/pull/105) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Update codacy/codacy-analysis-cli-action action to v4.1.0 [\#104](https://github.com/tj-actions/renovate-config-validator/pull/104) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v4.0.4 [\#103](https://github.com/tj-actions/renovate-config-validator/pull/103) ([renovate[bot]](https://github.com/apps/renovate))
+- Update pascalgn/automerge-action action to v0.15.3 [\#102](https://github.com/tj-actions/renovate-config-validator/pull/102) ([renovate[bot]](https://github.com/apps/renovate))
+- Update cirrus-actions/rebase action to v1.7 [\#101](https://github.com/tj-actions/renovate-config-validator/pull/101) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v4.0.3 [\#100](https://github.com/tj-actions/renovate-config-validator/pull/100) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/setup-qemu-action action to v2 [\#99](https://github.com/tj-actions/renovate-config-validator/pull/99) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/setup-buildx-action action to v2 [\#98](https://github.com/tj-actions/renovate-config-validator/pull/98) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/login-action action to v2 [\#97](https://github.com/tj-actions/renovate-config-validator/pull/97) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/build-push-action action to v3 [\#96](https://github.com/tj-actions/renovate-config-validator/pull/96) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/setup-buildx-action action to v1.7.0 [\#95](https://github.com/tj-actions/renovate-config-validator/pull/95) ([renovate[bot]](https://github.com/apps/renovate))
+- Update github/codeql-action action to v2 [\#94](https://github.com/tj-actions/renovate-config-validator/pull/94) ([renovate[bot]](https://github.com/apps/renovate))
+- Update reviewdog/action-shellcheck action to v1.15 [\#93](https://github.com/tj-actions/renovate-config-validator/pull/93) ([renovate[bot]](https://github.com/apps/renovate))
+- Update actions/checkout action to v3.0.2 [\#92](https://github.com/tj-actions/renovate-config-validator/pull/92) ([renovate[bot]](https://github.com/apps/renovate))
+- Update Node.js to v18 [\#91](https://github.com/tj-actions/renovate-config-validator/pull/91) ([renovate[bot]](https://github.com/apps/renovate))
+- Update cirrus-actions/rebase action to v1.6 [\#90](https://github.com/tj-actions/renovate-config-validator/pull/90) ([renovate[bot]](https://github.com/apps/renovate))
+- Update actions/checkout action to v3.0.1 [\#89](https://github.com/tj-actions/renovate-config-validator/pull/89) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v4.0.2 [\#88](https://github.com/tj-actions/renovate-config-validator/pull/88) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v4.0.1 [\#87](https://github.com/tj-actions/renovate-config-validator/pull/87) ([renovate[bot]](https://github.com/apps/renovate))
+- Update pascalgn/automerge-action action to v0.15.2 [\#86](https://github.com/tj-actions/renovate-config-validator/pull/86) ([renovate[bot]](https://github.com/apps/renovate))
+- Update pascalgn/automerge-action action to v0.14.4 [\#85](https://github.com/tj-actions/renovate-config-validator/pull/85) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v4 [\#84](https://github.com/tj-actions/renovate-config-validator/pull/84) ([renovate[bot]](https://github.com/apps/renovate))
+- Bump tj-actions/remark from 2.3 to 3 [\#83](https://github.com/tj-actions/renovate-config-validator/pull/83) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Update docker/build-push-action action to v2.10.0 [\#82](https://github.com/tj-actions/renovate-config-validator/pull/82) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/github-changelog-generator action to v1.13 [\#81](https://github.com/tj-actions/renovate-config-validator/pull/81) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/verify-changed-files action to v9 [\#80](https://github.com/tj-actions/renovate-config-validator/pull/80) ([renovate[bot]](https://github.com/apps/renovate))
+- Update codacy/codacy-analysis-cli-action action to v4.0.2 [\#79](https://github.com/tj-actions/renovate-config-validator/pull/79) ([renovate[bot]](https://github.com/apps/renovate))
+- Update codacy/codacy-analysis-cli-action action to v4.0.1 [\#78](https://github.com/tj-actions/renovate-config-validator/pull/78) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/login-action action to v1.14.1 [\#77](https://github.com/tj-actions/renovate-config-validator/pull/77) ([renovate[bot]](https://github.com/apps/renovate))
+- Update actions/checkout action [\#76](https://github.com/tj-actions/renovate-config-validator/pull/76) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v3.14.0 [\#75](https://github.com/tj-actions/renovate-config-validator/pull/75) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v3.13.0 [\#74](https://github.com/tj-actions/renovate-config-validator/pull/74) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/login-action action to v1.14.0 [\#73](https://github.com/tj-actions/renovate-config-validator/pull/73) ([renovate[bot]](https://github.com/apps/renovate))
+- Upgraded to v1.3 [\#72](https://github.com/tj-actions/renovate-config-validator/pull/72) ([jackton1](https://github.com/jackton1))
+
 ## [v1.3](https://github.com/tj-actions/renovate-config-validator/tree/v1.3) (2022-02-27)
 
 [Full Changelog](https://github.com/tj-actions/renovate-config-validator/compare/v1.2...v1.3)
@@ -7,10 +95,6 @@
 **Fixed bugs:**
 
 - \[BUG\] FATAL: Unsupported file type possibly due to  EBADENGINE Unsupported engine warning during Docker build [\#67](https://github.com/tj-actions/renovate-config-validator/issues/67)
-
-**Closed issues:**
-
-- Dependency Dashboard [\#1](https://github.com/tj-actions/renovate-config-validator/issues/1)
 
 **Merged pull requests:**
 
