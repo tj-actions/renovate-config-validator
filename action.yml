@@ -2,7 +2,7 @@ name: Renovate Configuration Validator
 description: Validate renovate bot configurations
 author: tj-actions
 inputs:
-  config-file:
+  config_file:
     description: 'Renovate configuration file e.g .github/renovate.json, .github/renovate.json5, .gitlab/renovate.json, .gitlab/renovate.json5, .renovaterc.json, renovate.json, renovate.json5, .renovaterc'
     required: true
     default: 'renovate.json'
