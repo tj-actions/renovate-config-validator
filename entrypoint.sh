@@ -2,4 +2,4 @@
 
 set -e
 
-renovate-config-validator -c "${INPUT_CONFIG-FILE}"
+renovate-config-validator "${INPUT_CONFIG-FILE}"
