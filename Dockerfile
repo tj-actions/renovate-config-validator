@@ -8,7 +8,7 @@ RUN apk add --no-cache \
   --virtual .gem-installdeps \
   python3 \
   build-base \
-  && npm install -g re2 renovate \
+  && npm install --location=global re2 renovate \
   && apk del .gem-installdeps
 
 COPY entrypoint.sh /entrypoint.sh
