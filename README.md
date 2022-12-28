@@ -25,10 +25,6 @@ Validate [renovate](https://github.com/renovatebot/renovate) bot configurations
 
 <!-- AUTO-DOC-INPUT:END -->
 
-|   Input       |    type    |  required     |  default                      |  description  |
-|:-------------:|:-----------:|:-------------:|:----------------------------:|:-------------:|
-| config-file         |  `string`   |    `true`    | `renovate.json`        | Renovate config file |
-
 *   Free software: [MIT license](LICENSE)
 
 If you feel generous and want to show some extra appreciation:
