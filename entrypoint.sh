@@ -2,4 +2,4 @@
 
 set -e
 
-renovate-config-validator "${INPUT_CONFIG-FILE}"
+renovate-config-validator "$GITHUB_WORKSPACE/$INPUT_CONFIG-FILE"
