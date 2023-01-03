@@ -21,7 +21,7 @@ Validate [renovate](https://github.com/renovatebot/renovate) bot configurations
 
 |    INPUT    |  TYPE  | REQUIRED |      DEFAULT      |                                                                                                  DESCRIPTION                                                                                                  |
 |-------------|--------|----------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| config\_file | string |   true   | `"renovate.json"` | Renovate configuration file e.g `.github/renovate.json`, `.github/renovate.json5`, `.gitlab/renovate.json`,<br>`.gitlab/renovate.json5`, `.renovaterc.json`, `renovate.json`, `renovate.json5`, `.renovaterc` |
+| config\_file | string |   true   | `"renovate.json"` | Renovate configuration file e.g `.github/renovate.json`, `.github/renovate.json5`,<br>`.gitlab/renovate.json`, `.gitlab/renovate.json5`, `.renovaterc.json`, `renovate.json`, `renovate.json5`, `.renovaterc` |
 
 <!-- AUTO-DOC-INPUT:END -->
 
