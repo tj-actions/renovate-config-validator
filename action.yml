@@ -9,7 +9,7 @@ inputs:
 
 runs:
   using: 'docker'
-  image: 'Dockerfile'
+  image: 'docker://ghcr.io/tj-actions/renovate-config-validator:latest'
 branding:
   icon: check-square
   color: white
