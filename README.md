@@ -10,7 +10,7 @@ Validate [renovate](https://github.com/renovatebot/renovate) bot configurations
 ```yaml
 ...
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Renovate Config Validator
         uses: tj-actions/renovate-config-validator@v2
 ```
