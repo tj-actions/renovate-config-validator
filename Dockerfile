@@ -5,11 +5,11 @@ LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 RUN apk add bash
     
 RUN apk add --no-cache \
-  --virtual .gem-installdeps \
+  --virtual .installdeps \
   python3 \
   build-base \
   && npm install --location=global re2 renovate \
-  && apk del .gem-installdeps
+  && apk del .installdeps
 
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
