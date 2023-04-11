@@ -4,10 +4,7 @@ LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
 RUN apk add bash
     
-RUN apk add --no-cache \
-  --virtual .installdeps \
-  python3 \
-  build-base \
+RUN apk add python3 build-base \
   && npm install --location=global re2 renovate \
   && apk del .installdeps
 
