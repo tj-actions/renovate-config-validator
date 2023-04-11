@@ -22,4 +22,4 @@ jobs:
       - name: Run renovate-config-validator with non default values
         uses: ./
         with:
-          config-file: 'renovate-new.json'
+          config_file: 'renovate-new.json'
