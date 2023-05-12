@@ -19,9 +19,9 @@ Validate [renovate](https://github.com/renovatebot/renovate) bot configurations
 
 <!-- AUTO-DOC-INPUT:START - Do not remove or modify this section -->
 
-|    INPUT    |  TYPE  | REQUIRED |      DEFAULT      |                                                                                                    DESCRIPTION                                                                                                    |
-|-------------|--------|----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| config\_file | string |   true   | `"renovate.json"` | Renovate configuration file e.g `.github/renovate.json`,<br> `.github/renovate.json5`, `.gitlab/renovate.json`, `.gitlab/renovate.json5`, `.renovaterc.json`, `renovate.json`,<br>`renovate.json5`, `.renovaterc` |
+|    INPUT    |  TYPE  | REQUIRED |      DEFAULT      |                                                                                                     DESCRIPTION                                                                                                     |
+|-------------|--------|----------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| config\_file | string |   true   | `"renovate.json"` | Renovate configuration file e.g `.github/renovate.json`, <br>`.github/renovate.json5`, `.gitlab/renovate.json`, `.gitlab/renovate.json5`, `.renovaterc.json`, `renovate.json`, <br>`renovate.json5`, `.renovaterc`  |
 
 <!-- AUTO-DOC-INPUT:END -->
 
