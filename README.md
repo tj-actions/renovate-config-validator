@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/648b512b67574e5d9890f263e64023d3)](https://app.codacy.com/gh/tj-actions/renovate-config-validator?utm_source=github.com&utm_medium=referral&utm_content=tj-actions/renovate-config-validator&utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/79a40805568a4e43bc78086711a548b8)](https://app.codacy.com/gh/tj-actions/renovate-config-validator?utm_source=github.com\&utm_medium=referral\&utm_content=tj-actions/renovate-config-validator\&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/tj-actions/verify-changed-files/workflows/CI/badge.svg)](https://github.com/tj-actions/renovate-config-validator/actions?query=workflow%3ACI)
 [![Update release version.](https://github.com/tj-actions/renovate-config-validator/workflows/Update%20release%20version./badge.svg)](https://github.com/tj-actions/renovate-config-validator/actions?query=workflow%3A%22Update+release+version.%22)
